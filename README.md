@@ -28,7 +28,10 @@ Ejemplo de tablas
 |                    64.43 |                1679.52 |                       79.65 |                    703.55 |
 |                    88.4  |                4262.85 |                       94.2  |                   2331.3  |
 |                   118.75 |                8672.45 |                      118.35 |                   8684.8  |
- (gráficos)
+
+ Ejemplo de gráficos
+
+ ![Gráfico contratos](Contratos_clientes_exclientes.png)
 
 ## 🛠 Herramientas Utilizadas
 
