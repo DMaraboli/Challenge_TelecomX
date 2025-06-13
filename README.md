@@ -17,7 +17,17 @@ Este repositorio contiene un análisis detallado del abandono de clientes (churn
 - **Recomendaciones estratégicas**: Propuestas para reducir el churn.
 
 ## 📁 Estructura del Repositorio
- Datos 
+Ejemplo de tablas
+ |   Clientes_Cargo_Mensual |   Clientes_Cargo_Total |   Ex-Clientes_Cargo_Mensual |   Ex-clientes_Cargo_Total |
+|-------------------------:|-----------------------:|----------------------------:|--------------------------:|
+|                  5174    |                5174    |                     1869    |                   1869    |
+|                    61.27 |                2549.91 |                       74.44 |                   1531.8  |
+|                    31.09 |                2329.95 |                       24.67 |                   1890.82 |
+|                    18.25 |                   0    |                       18.85 |                     18.85 |
+|                    25.1  |                 572.9  |                       56.15 |                    134.5  |
+|                    64.43 |                1679.52 |                       79.65 |                    703.55 |
+|                    88.4  |                4262.85 |                       94.2  |                   2331.3  |
+|                   118.75 |                8672.45 |                      118.35 |                   8684.8  |
  (gráficos)
 
 ## 🛠 Herramientas Utilizadas
