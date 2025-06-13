@@ -36,7 +36,7 @@ Ejemplo de tablas
 ## 🛠 Herramientas Utilizadas
 
 - Python (pandas, seaborn, matplotlib, plotly)
-- Jupyter Notebooks
+- Google Colab
 - Análisis exploratorio de datos (EDA)
 - Estadística descriptiva
 - Visualización comparativa
